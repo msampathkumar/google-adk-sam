@@ -7,3 +7,11 @@ In this notebook, you'll learn how to transform stateless LLMs into intelligent,
 
 ### Building Intelligent Agents: Google ADK Memory - Long-Term Knowledge (Part 2)
 In this notebook, we'll give our agents long-term memory - a persistent, searchable knowledge store that transcends individual conversations.
+
+## QR Code
+
+![](google-adk-sam-repo-qr-code.png)
+
+# Uwaga / Caution
+
+> **Author**: Google, Google Gemini & Google-ADK is improving & evolving everyday.

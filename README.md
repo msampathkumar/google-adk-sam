@@ -74,7 +74,7 @@ graph LR
     B --> C[Notebook 2: Memory]
 
     B --> B1[Understand Stateless vs Stateful]
-    B --> B2[Learn Context Engineering]
+    B --> B2[Learn Context Engineering(Sessions)]
     B --> B3[Master Session Management]
 
     C --> C1[Sessions to Memory Transfer]
